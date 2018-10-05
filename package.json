@@ -41,7 +41,7 @@
     "react-highlight.js": "1.0.5"
   },
   "dependencies": {
-    "moment": "2.19.3",
+    "moment": "2.19.1",
     "moment-timezone": "0.5.13",
     "prop-types": "15.5.10"
   }
